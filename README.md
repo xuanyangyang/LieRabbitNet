@@ -13,10 +13,10 @@ python3 lierabbitnet.py -t target_host -p port<br>
 
 
 演示：
-在目标上：<br>
-python3 lierabbitnet.py -l -c -p 9999       #启动脚本<br>
+在目标上启动脚本：<br>
+python3 lierabbitnet.py -l -c -p 9999<br>
 
-在本机上：<br>
+在本机上远程连接：<br>
 python3 lierabbitnet.py -t 目标ip -p 9999<br>
 进行各种操作<br>
 ![img](https://github.com/LieRabbit/LieRabbitNet/blob/master/images/1.jpg)
