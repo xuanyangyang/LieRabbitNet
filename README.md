@@ -18,6 +18,7 @@ python3 lierabbitnet.py -l -c -p 9999  #启动<br>
 
 在本机上：<br>
 python3 lierabbitnet.py -t 目标ip -p 9999<br>
+进行各种操作<br>
 ![img](https://github.com/LieRabbit/LieRabbitNet/blob/master/images/1.jpg)
 ![img](https://github.com/LieRabbit/LieRabbitNet/blob/master/images/2.jpg)
 ![img](https://github.com/LieRabbit/LieRabbitNet/blob/master/images/3.jpg)
