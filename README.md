@@ -1,5 +1,5 @@
 # LieRabbitNet
-远程控制，调用shell，上传文件，执行命令
+远程控制，调用shell，上传文件，执行命令，Remote control，Execute Command，Upload files
 =======
 Windows Linux都可以<br>
 use python3.x<br>
