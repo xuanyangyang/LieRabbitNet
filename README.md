@@ -23,7 +23,7 @@ python3 lierabbitnet.py -t 目标ip -p 9999<br>
 ![img](https://github.com/LieRabbit/LieRabbitNet/blob/master/images/3.jpg)
 ![img](https://github.com/LieRabbit/LieRabbitNet/blob/master/images/4.jpg)
 运行一系列命令后：<br>
-![img](https://github.com/LieRabbit/LieRabbitNet/blob/master/images/5.jpg)
+![img](https://github.com/LieRabbit/LieRabbitNet/blob/master/images/5.png)
 
 
 
