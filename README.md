@@ -14,7 +14,7 @@ python3 lierabbitnet.py -t target_host -p port<br>
 
 演示：
 在目标上：<br>
-python3 lierabbitnet.py -l -c -p 9999  #启动<br>
+python3 lierabbitnet.py -l -c -p 9999       #启动脚本<br>
 
 在本机上：<br>
 python3 lierabbitnet.py -t 目标ip -p 9999<br>
